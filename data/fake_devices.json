@@ -1,0 +1,2272 @@
+{
+    "fake_devices_and_activities": [
+        {
+            "name": "Living-Room-Light1",
+            "type": "Light",
+            "model": "Philips",
+            "location": "Living Room",
+            "status": "off",
+            "activity": [
+                {
+                    "timestamp": "2024-05-06T06:09:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T09:26:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-06T17:31:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T22:39:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T06:34:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T09:56:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T17:08:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T22:12:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T06:57:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T10:26:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T16:49:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T22:02:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T06:57:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T10:27:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T17:07:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T21:55:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T07:23:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T10:08:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T16:37:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T21:25:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T07:43:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T09:59:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T17:06:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T21:00:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T07:28:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T09:48:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T16:42:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T21:26:00",
+                    "activity": "off"
+                }
+            ]
+        },
+        {
+            "name": "Living-Room-Light2",
+            "type": "Light",
+            "model": "Philips",
+            "location": "Living Room",
+            "status": "off",
+            "activity": [
+                {
+                    "timestamp": "2024-05-06T05:32:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T09:16:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-06T17:36:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T22:51:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T05:49:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T08:58:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T17:37:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T22:35:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T05:56:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T08:57:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T17:55:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T22:55:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T05:44:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T08:31:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T17:34:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T23:15:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T05:28:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T08:14:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T17:39:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T23:27:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T05:52:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T08:23:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T18:00:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T23:13:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T05:39:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T08:11:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T17:31:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T22:49:00",
+                    "activity": "off"
+                }
+            ]
+        },
+        {
+            "name": "Living-Room-Light3",
+            "type": "Light",
+            "model": "Philips",
+            "location": "Living Room",
+            "status": "off",
+            "activity": [
+                {
+                    "timestamp": "2024-05-06T05:52:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T08:59:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-06T17:41:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T22:43:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T05:27:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T09:12:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T17:36:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T23:06:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T05:03:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T08:42:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T17:43:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T23:35:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T05:24:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T09:02:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T18:03:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T23:25:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T05:45:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T08:49:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T18:03:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T23:07:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T05:52:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T08:26:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T18:17:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T23:01:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T06:18:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T08:01:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T18:20:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T23:12:00",
+                    "activity": "off"
+                }
+            ]
+        },
+        {
+            "name": "Living-Room-Light4",
+            "type": "Light",
+            "model": "Philips",
+            "location": "Living Room",
+            "status": "off",
+            "activity": [
+                {
+                    "timestamp": "2024-05-06T06:07:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T09:22:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-06T18:28:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T23:30:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T05:41:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T09:36:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T18:12:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T23:27:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T06:00:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T09:16:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T18:39:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T23:24:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T06:08:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T08:49:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T18:32:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T23:37:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T06:37:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T08:44:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T18:34:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T23:23:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T06:26:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T09:05:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T18:45:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T23:45:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T06:54:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T09:02:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T18:37:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T23:18:00",
+                    "activity": "off"
+                }
+            ]
+        },
+        {
+            "name": "Bedroom-Light1",
+            "type": "Light",
+            "model": "Philips",
+            "location": "Bedroom",
+            "status": "off",
+            "activity": [
+                {
+                    "timestamp": "2024-05-06T06:10:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T08:59:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-06T18:04:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T23:26:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T06:04:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T08:44:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T17:52:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T23:35:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T06:00:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T08:16:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T18:04:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T23:26:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T06:24:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T08:40:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T18:19:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T22:58:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T06:35:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T08:51:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T18:40:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T23:24:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T06:12:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T09:17:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T18:27:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T23:45:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T06:09:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T08:51:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T18:31:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T23:48:00",
+                    "activity": "off"
+                }
+            ]
+        },
+        {
+            "name": "Bedroom-Light2",
+            "type": "Light",
+            "model": "Philips",
+            "location": "Bedroom",
+            "status": "off",
+            "activity": [
+                {
+                    "timestamp": "2024-05-06T06:06:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T09:27:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-06T17:59:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T23:13:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T06:18:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T09:21:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T17:55:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T23:14:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T06:18:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T09:17:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T17:36:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T22:52:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T06:41:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T08:59:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T17:47:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T23:17:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T06:29:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T08:54:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T17:26:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T23:32:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T06:26:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T08:34:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T17:16:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T23:19:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T06:35:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T08:35:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T17:30:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T23:21:00",
+                    "activity": "off"
+                }
+            ]
+        },
+        {
+            "name": "Bedroom-Light3",
+            "type": "Light",
+            "model": "Philips",
+            "location": "Bedroom",
+            "status": "off",
+            "activity": [
+                {
+                    "timestamp": "2024-05-06T06:11:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T09:13:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-06T17:44:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T22:49:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T06:40:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T09:16:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T17:48:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T22:55:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T06:52:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T09:17:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T18:08:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T22:25:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T06:45:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T09:24:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T17:56:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T22:08:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T06:19:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T09:31:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T17:58:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T21:55:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T06:30:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T09:19:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T17:36:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T22:20:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T06:17:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T09:02:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T17:59:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T22:32:00",
+                    "activity": "off"
+                }
+            ]
+        },
+        {
+            "name": "Kitchen-Light1",
+            "type": "Light",
+            "model": "Philips",
+            "location": "Kitchen",
+            "status": "off",
+            "activity": [
+                {
+                    "timestamp": "2024-05-06T05:31:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T08:45:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-06T18:12:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T23:15:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T05:21:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T08:40:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T18:05:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T23:10:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T05:13:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T08:30:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T18:19:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T23:01:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T04:55:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T08:29:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T18:44:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T22:37:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T04:26:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T08:07:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T18:49:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T22:29:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T03:59:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T08:29:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T18:31:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T22:25:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T04:02:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T08:18:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T18:52:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T22:33:00",
+                    "activity": "off"
+                }
+            ]
+        },
+        {
+            "name": "Kitchen-Light2",
+            "type": "Light",
+            "model": "Philips",
+            "location": "Kitchen",
+            "status": "off",
+            "activity": [
+                {
+                    "timestamp": "2024-05-06T05:42:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T09:13:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-06T18:22:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T23:19:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T05:31:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T09:23:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T18:36:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T23:16:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T05:23:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T09:20:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T19:03:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T23:12:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T05:48:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T09:24:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T19:31:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T23:00:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T05:45:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T09:02:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T19:28:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T23:11:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T05:49:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T08:44:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T19:46:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T22:50:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T05:42:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T08:36:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T20:11:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T23:16:00",
+                    "activity": "off"
+                }
+            ]
+        },
+        {
+            "name": "Kitchen-Light3",
+            "type": "Light",
+            "model": "Philips",
+            "location": "Kitchen",
+            "status": "off",
+            "activity": [
+                {
+                    "timestamp": "2024-05-06T06:13:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T09:27:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-06T18:28:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T23:02:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T06:07:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T09:18:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T18:47:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T23:14:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T06:23:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T09:11:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T18:43:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T23:28:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T06:49:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T09:30:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T19:07:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T23:17:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T07:08:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T09:03:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T19:11:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T22:56:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T07:34:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T09:20:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T18:45:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T22:53:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T07:54:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T08:58:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T18:17:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T22:40:00",
+                    "activity": "off"
+                }
+            ]
+        },
+        {
+            "name": "Kitchen-Light4",
+            "type": "Light",
+            "model": "Philips",
+            "location": "Kitchen",
+            "status": "off",
+            "activity": [
+                {
+                    "timestamp": "2024-05-06T05:52:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T09:15:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-06T17:43:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T23:12:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T06:19:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T09:29:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T17:48:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T23:32:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T06:13:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T09:59:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T17:29:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T23:51:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T05:58:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T10:04:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T17:35:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T00:12:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T05:38:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T09:49:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T17:57:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T00:10:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T05:18:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T10:12:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T17:31:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T23:45:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T05:01:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T10:27:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T17:27:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-13T00:07:00",
+                    "activity": "off"
+                }
+            ]
+        },
+        {
+            "name": "Kitchen-Light5",
+            "type": "Light",
+            "model": "Philips",
+            "location": "Kitchen",
+            "status": "off",
+            "activity": [
+                {
+                    "timestamp": "2024-05-06T06:21:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T09:27:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-06T17:32:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T22:45:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T06:19:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T09:17:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T17:39:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T22:33:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T06:06:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T09:24:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T17:42:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T22:25:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T05:43:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T09:06:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T17:19:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T22:21:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T05:24:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T08:53:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T16:59:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T21:55:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T05:54:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T08:34:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T17:03:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T21:25:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T06:05:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T08:35:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T16:56:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T21:14:00",
+                    "activity": "off"
+                }
+            ]
+        },
+        {
+            "name": "Bathroom-Light1",
+            "type": "Light",
+            "model": "Philips",
+            "location": "Bathroom",
+            "status": "off",
+            "activity": [
+                {
+                    "timestamp": "2024-05-06T06:20:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T08:50:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-06T18:02:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T22:55:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T06:11:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T08:27:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T18:03:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T22:35:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T05:47:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T08:46:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T18:28:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T22:20:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T05:24:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T08:50:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T18:55:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T22:07:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T05:13:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T08:39:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T18:37:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T21:47:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T05:11:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T08:11:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T18:23:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T21:21:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T05:35:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T08:36:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T18:39:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T21:46:00",
+                    "activity": "off"
+                }
+            ]
+        },
+        {
+            "name": "Toilet-Light1",
+            "type": "Light",
+            "model": "Philips",
+            "location": "Toilet",
+            "status": "off",
+            "activity": [
+                {
+                    "timestamp": "2024-05-06T06:17:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T09:02:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-06T18:22:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T23:14:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T06:17:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T09:25:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T18:50:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T23:10:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T05:54:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T09:36:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T18:59:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T23:34:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T05:53:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T10:00:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T18:37:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T23:48:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T05:38:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T10:08:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T18:27:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T23:29:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T05:24:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T10:02:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T18:49:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T23:31:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T05:51:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T10:16:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T19:16:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T23:02:00",
+                    "activity": "off"
+                }
+            ]
+        },
+        {
+            "name": "Balcony-Light1",
+            "type": "Light",
+            "model": "Philips",
+            "location": "Balcony",
+            "status": "off",
+            "activity": [
+                {
+                    "timestamp": "2024-05-06T06:30:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T08:59:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-06T18:11:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T23:05:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T06:44:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T08:32:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T17:44:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T22:44:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T06:37:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T08:50:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T17:26:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T22:40:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T06:30:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T08:37:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T17:35:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T22:26:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T06:04:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T08:58:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T17:47:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T22:26:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T06:29:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T09:06:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T17:54:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T22:36:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T06:42:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T08:55:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T17:58:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T22:08:00",
+                    "activity": "off"
+                }
+            ]
+        },
+        {
+            "name": "Garage-Light1",
+            "type": "Light",
+            "model": "Philips",
+            "location": "Garage",
+            "status": "off",
+            "activity": [
+                {
+                    "timestamp": "2024-05-06T05:54:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T08:32:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-06T18:17:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T23:19:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T06:23:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T08:09:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T18:35:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T23:38:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T06:32:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T07:51:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T18:32:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T00:01:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T06:55:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T07:57:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T18:06:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T00:06:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T07:25:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T08:20:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T18:31:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T00:23:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T07:35:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T08:09:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T18:07:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T23:56:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T07:51:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T08:11:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T18:08:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T23:46:00",
+                    "activity": "off"
+                }
+            ]
+        },
+        {
+            "name": "Garage-Light2",
+            "type": "Light",
+            "model": "Philips",
+            "location": "Garage",
+            "status": "off",
+            "activity": [
+                {
+                    "timestamp": "2024-05-06T06:09:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T09:29:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-06T17:54:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-06T23:08:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T06:14:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T09:33:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-07T18:02:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-07T22:56:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T06:01:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T09:53:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-08T18:26:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-08T23:15:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T06:00:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T09:50:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-09T18:33:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-09T23:30:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T05:35:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T09:22:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-10T18:57:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-10T23:07:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T06:05:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T08:58:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-11T19:24:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-11T23:03:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T06:25:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T09:10:00",
+                    "activity": "off"
+                },
+                {
+                    "timestamp": "2024-05-12T19:01:00",
+                    "activity": "on"
+                },
+                {
+                    "timestamp": "2024-05-12T23:11:00",
+                    "activity": "off"
+                }
+            ]
+        },
+        {
+            "name": "Garage-Door1",
+            "type": "Garage Door",
+            "model": "Chamberlain",
+            "location": "Garage",
+            "status": "closed",
+            "activity": [
+                {
+                    "timestamp": "2024-05-06T07:50:00",
+                    "activity": "open"
+                },
+                {
+                    "timestamp": "2024-05-06T17:21:00",
+                    "activity": "close"
+                },
+                {
+                    "timestamp": "2024-05-07T07:42:00",
+                    "activity": "open"
+                },
+                {
+                    "timestamp": "2024-05-07T17:44:00",
+                    "activity": "close"
+                },
+                {
+                    "timestamp": "2024-05-08T07:50:00",
+                    "activity": "open"
+                },
+                {
+                    "timestamp": "2024-05-08T17:43:00",
+                    "activity": "close"
+                },
+                {
+                    "timestamp": "2024-05-09T08:10:00",
+                    "activity": "open"
+                },
+                {
+                    "timestamp": "2024-05-09T18:01:00",
+                    "activity": "close"
+                },
+                {
+                    "timestamp": "2024-05-10T08:37:00",
+                    "activity": "open"
+                },
+                {
+                    "timestamp": "2024-05-10T18:17:00",
+                    "activity": "close"
+                },
+                {
+                    "timestamp": "2024-05-11T08:49:00",
+                    "activity": "open"
+                },
+                {
+                    "timestamp": "2024-05-11T18:45:00",
+                    "activity": "close"
+                },
+                {
+                    "timestamp": "2024-05-12T08:42:00",
+                    "activity": "open"
+                },
+                {
+                    "timestamp": "2024-05-12T18:45:00",
+                    "activity": "close"
+                }
+            ]
+        },
+        {
+            "name": "Lviing-Smoke1",
+            "type": "Smoke Detector",
+            "model": "First Alert",
+            "location": "Living Room",
+            "status": "active",
+            "activity": []
+        },
+        {
+            "name": "Bedroom-Smoke1",
+            "type": "Smoke Detector",
+            "model": "First Alert",
+            "location": "Bedroom",
+            "status": "active",
+            "activity": []
+        },
+        {
+            "name": "Front-Lock1",
+            "type": "Door Lock",
+            "model": "Schlage",
+            "location": "Front Door",
+            "status": "closed",
+            "activity": [
+                {
+                    "timestamp": "2024-05-06T08:00:00",
+                    "activity": "lock"
+                },
+                {
+                    "timestamp": "2024-05-06T17:30:00",
+                    "activity": "unlock"
+                },
+                {
+                    "timestamp": "2024-05-07T08:12:00",
+                    "activity": "lock"
+                },
+                {
+                    "timestamp": "2024-05-07T17:16:00",
+                    "activity": "unlock"
+                },
+                {
+                    "timestamp": "2024-05-08T08:03:00",
+                    "activity": "lock"
+                },
+                {
+                    "timestamp": "2024-05-08T17:46:00",
+                    "activity": "unlock"
+                },
+                {
+                    "timestamp": "2024-05-09T08:01:00",
+                    "activity": "lock"
+                },
+                {
+                    "timestamp": "2024-05-09T17:27:00",
+                    "activity": "unlock"
+                },
+                {
+                    "timestamp": "2024-05-10T08:31:00",
+                    "activity": "lock"
+                },
+                {
+                    "timestamp": "2024-05-10T17:34:00",
+                    "activity": "unlock"
+                },
+                {
+                    "timestamp": "2024-05-11T08:20:00",
+                    "activity": "lock"
+                },
+                {
+                    "timestamp": "2024-05-11T17:37:00",
+                    "activity": "unlock"
+                },
+                {
+                    "timestamp": "2024-05-12T08:03:00",
+                    "activity": "lock"
+                },
+                {
+                    "timestamp": "2024-05-12T17:13:00",
+                    "activity": "unlock"
+                }
+            ]
+        },
+        {
+            "name": "Back-Lock1",
+            "type": "Door Lock",
+            "model": "Schlage",
+            "location": "Back Door",
+            "status": "closed",
+            "activity": [
+                {
+                    "timestamp": "2024-05-06T08:00:00",
+                    "activity": "lock"
+                },
+                {
+                    "timestamp": "2024-05-06T17:30:00",
+                    "activity": "unlock"
+                },
+                {
+                    "timestamp": "2024-05-07T08:25:00",
+                    "activity": "lock"
+                },
+                {
+                    "timestamp": "2024-05-07T17:43:00",
+                    "activity": "unlock"
+                },
+                {
+                    "timestamp": "2024-05-08T08:46:00",
+                    "activity": "lock"
+                },
+                {
+                    "timestamp": "2024-05-08T17:29:00",
+                    "activity": "unlock"
+                },
+                {
+                    "timestamp": "2024-05-09T08:43:00",
+                    "activity": "lock"
+                },
+                {
+                    "timestamp": "2024-05-09T17:19:00",
+                    "activity": "unlock"
+                },
+                {
+                    "timestamp": "2024-05-10T08:43:00",
+                    "activity": "lock"
+                },
+                {
+                    "timestamp": "2024-05-10T17:33:00",
+                    "activity": "unlock"
+                },
+                {
+                    "timestamp": "2024-05-11T08:50:00",
+                    "activity": "lock"
+                },
+                {
+                    "timestamp": "2024-05-11T17:42:00",
+                    "activity": "unlock"
+                },
+                {
+                    "timestamp": "2024-05-12T08:53:00",
+                    "activity": "lock"
+                },
+                {
+                    "timestamp": "2024-05-12T18:04:00",
+                    "activity": "unlock"
+                }
+            ]
+        }
+    ]
+}
